@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:IDEES-Rouen/EpiSim.git
+	branch = master
+	commit = 6cd26bf51cf10eaddbf5dad01e44ba49eef1b3e8
+	parent = 2da75af342f76ca25e250cae6adf2a02f31397d6
+	cmdver = 0.3.0
