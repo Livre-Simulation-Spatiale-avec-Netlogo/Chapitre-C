@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Geographie-cites/Metapop.git
+	branch = master
+	commit = 7ef1af92bc63e0821cfe09305030787688df1479
+	parent = 7ed1225351af0ea31b993489c0347cb0f5117d65
+	cmdver = 0.3.0
