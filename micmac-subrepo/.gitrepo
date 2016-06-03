@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Geographie-cites/MicMac.git
+	branch = master
+	commit = 0bd5abfe59df88c3d8f59cc0653b44cf622303e3
+	parent = afca309c709818a791bea6d73c22f9ad9273dd3c
+	cmdver = 0.3.0
